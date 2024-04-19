@@ -7,8 +7,6 @@ A pesquisa de inteligência artificial do Azure para a Fourth Coffee foi conduzi
 
 Este arquivo contém o guia completo para configurar uma solução de mineração de conhecimento utilizando a Pesquisa de Inteligência Avançada do Azure. O objetivo é facilitar a busca por informações sobre as experiências do cliente a partir de avaliações de clientes.
 
-
-
 ## Configuração de Pesquisa com Azure Cognitive Search
 
 ### Passo 1: Criar um Serviço de Azure Cognitive Search
@@ -35,12 +33,9 @@ Este arquivo contém o guia completo para configurar uma solução de mineraçã
 2. Teste diferentes consultas para garantir que os resultados sejam precisos e relevantes.
 
 3. Explore recursos avançados, como pesquisa por facetas e resumo de contexto, para melhorar a experiência do usuário.
-
    
 
 ## Insights e Possibilidades
-
-
 
 Durante este processo, você pode obter alguns insights interessantes:
 
